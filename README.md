@@ -31,7 +31,7 @@ rooms and so on.
 
 Credit: 
 -------
-Reports: Xiaofan He, Yiran Lu, Yuanlong Zhang, Bryan Jia__
-Frontend: Xiaofan He__
-Backend: Xiaofan He__
+Reports: Xiaofan He, Yiran Lu, Yuanlong Zhang, Bryan Jia  
+Frontend: Xiaofan He  
+Backend: Xiaofan He  
 Data support: Yiran Lu, Yuanlong Zhang
