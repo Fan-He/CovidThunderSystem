@@ -29,6 +29,10 @@ Our goal is to build a database that supports such functions which would help a 
 hospital or clinic to accurately get the information needed for healthcare providers, patients,
 rooms and so on.
 
+Install and Run: 
+------------------
+Running the project requires a Java IDE and a SQL workbench. Download all files and create a new project, and put all files under src. Run "CovidThunderSystem.java", and the application will show up. 
+
 Credit: 
 -------
 Reports: Xiaofan He, Yiran Lu, Yuanlong Zhang, Bryan Jia  
