@@ -33,6 +33,11 @@ Install and Run:
 ------------------
 Running the project requires a Java IDE and a SQL workbench. Download all files and create a new project, and put all files under src. Run "CovidThunderSystem.java", and the application will show up. 
 
+Future Improvements: 
+--------------------
+In order to improve users' experience, UI will be improved.  
+More functions will be implemented, for example, users will be able to jump from one section to another one by keywords. For example, in Doctor section, users can jump to a doctor's patient's information page by clicking on the patient name. 
+
 Credit: 
 -------
 Reports: Xiaofan He, Yiran Lu, Yuanlong Zhang, Bryan Jia  
